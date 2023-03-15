@@ -1,4 +1,4 @@
-![Image of Seo Saver](https://github.com/vkiguta/seo-saver/blob/main/presentation.jpg)
+
 
 # Seo Saver
 
